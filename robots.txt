@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wobblepandagames.com/sitemap.xml
